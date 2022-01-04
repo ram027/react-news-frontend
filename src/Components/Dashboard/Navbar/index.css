@@ -1,0 +1,31 @@
+.header {
+  background-color: #1b1c25;
+}
+
+nav ul a {
+  color: #1b1c25;
+  padding: 0 5px;
+}
+
+nav {
+  background-color: #fff;
+  line-height: 43px;
+  height: 0;
+}
+
+nav ul {
+  color: red;
+}
+nav i,
+nav [class^="mdi-"],
+nav [class*="mdi-"],
+nav i.material-icons {
+  line-height: 46px;
+}
+
+.btn,
+.btn-large,
+.btn-small,
+.btn-flat {
+  vertical-align: top;
+}

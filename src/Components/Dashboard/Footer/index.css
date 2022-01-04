@@ -1,0 +1,19 @@
+.section {
+  padding: 20px;
+}
+
+.bottom-container {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+}
+.bottom-container-about {
+  color: #11999e;
+}
+
+.footer-link {
+  color: #11999e;
+  text-decoration: none;
+  font-size: larger;
+  margin-right: 25px;
+}
